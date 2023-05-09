@@ -14,3 +14,6 @@ Cookies are used for several reasons, including:
 
 - **Session Management** 
 
+##Conclusion
+
+We have used a bit of JavaScript to add on the HTML and CSS to bring out some functionality. 
