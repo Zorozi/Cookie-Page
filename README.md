@@ -10,6 +10,7 @@ Cookies are small text files that are stored on your device when you browse the 
 
 Cookies are used for several reasons, including:
 
-- **Authentication** - Cookies are used to keep you logged in to a website so that you don't have to enter your login credentials every time you visit the site.
+- **Authentication**
 
-- **Session Management** - Cookies are used to manage sessions on a website. They help websites remember your preferences and allow you to move between pages without losing your data.
+- **Session Management** 
+
